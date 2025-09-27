@@ -185,3 +185,4 @@ There is NO guarantee that this mod is compatible with other mods !
 - DO NOT UNDER ANY CIRCUMSTANCE COMPLAIN ABOUT BUGS TO THE DEVELOPERS WHILE USING MODS. UNINSTALL MODS IF YOU ENCOUNTER BUGS AND THEN REPORT THEM IF THEY ARE STILL PRESENT.
 
 - Please search the PEAK Steam discussions if you face bugs as they likely could be caused by the game and not the mod.
+
